@@ -8,6 +8,7 @@ void main(){
      print("february");
   }
 
+
   else if(month=="mar"){
     print("march");
   }
@@ -16,6 +17,7 @@ void main(){
   }
   else if(month=="may"){
     print("May");
+
   }
   else if(month=="june"){
     print("june");
@@ -23,9 +25,7 @@ void main(){
   else if(month=="july"){
     print("july");
   }
-  else if(month=="aug"){
-    print("August");
-  }
+
   else if(month=="sep"){
     print("september");
   }

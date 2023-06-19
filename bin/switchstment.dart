@@ -1,6 +1,6 @@
 void main(){
 
-  var year=2012;
+  int year=2012;
 
   switch(year){
     case 2015 :
